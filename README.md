@@ -64,8 +64,8 @@ We welcome contributions from the community! If you have suggestions for improve
 
 ### Contributors
 
-- Piyush Dabar
 - Shashank Ingole
+- Piyush Dabar 
 - Shreya Mistra
 
 ## License
